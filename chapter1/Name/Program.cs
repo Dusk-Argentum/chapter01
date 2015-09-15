@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace chapter1
+namespace Name
 {
     class Program
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Brandon");
         }
     }
 }

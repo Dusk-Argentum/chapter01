@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chapter1", "chapter1\chapter1.csproj", "{D6DB8857-B96B-4B3E-AD8D-945C30F7058E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Name", "Name\Name.csproj", "{12702526-787D-4AAE-9B04-241B702CC153}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Address", "Address\Address.csproj", "{08D95DD1-D55A-407B-B00D-97A171C34593}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +17,14 @@ Global
 		{D6DB8857-B96B-4B3E-AD8D-945C30F7058E}.Debug|x86.Build.0 = Debug|x86
 		{D6DB8857-B96B-4B3E-AD8D-945C30F7058E}.Release|x86.ActiveCfg = Release|x86
 		{D6DB8857-B96B-4B3E-AD8D-945C30F7058E}.Release|x86.Build.0 = Release|x86
+		{12702526-787D-4AAE-9B04-241B702CC153}.Debug|x86.ActiveCfg = Debug|x86
+		{12702526-787D-4AAE-9B04-241B702CC153}.Debug|x86.Build.0 = Debug|x86
+		{12702526-787D-4AAE-9B04-241B702CC153}.Release|x86.ActiveCfg = Release|x86
+		{12702526-787D-4AAE-9B04-241B702CC153}.Release|x86.Build.0 = Release|x86
+		{08D95DD1-D55A-407B-B00D-97A171C34593}.Debug|x86.ActiveCfg = Debug|x86
+		{08D95DD1-D55A-407B-B00D-97A171C34593}.Debug|x86.Build.0 = Debug|x86
+		{08D95DD1-D55A-407B-B00D-97A171C34593}.Release|x86.ActiveCfg = Release|x86
+		{08D95DD1-D55A-407B-B00D-97A171C34593}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
