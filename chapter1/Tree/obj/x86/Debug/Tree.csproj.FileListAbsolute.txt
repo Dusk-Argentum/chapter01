@@ -2,3 +2,8 @@ C:\Users\eahscs\Desktop\chapter01\chapter1\Tree\bin\Debug\Tree.exe
 C:\Users\eahscs\Desktop\chapter01\chapter1\Tree\bin\Debug\Tree.pdb
 C:\Users\eahscs\Desktop\chapter01\chapter1\Tree\obj\x86\Debug\Tree.exe
 C:\Users\eahscs\Desktop\chapter01\chapter1\Tree\obj\x86\Debug\Tree.pdb
+C:\Users\DuskArgentum\Desktop\C# Things\chapter01\chapter1\Tree\obj\x86\Debug\Tree.exe
+C:\Users\DuskArgentum\Desktop\C# Things\chapter01\chapter1\Tree\obj\x86\Debug\Tree.pdb
+C:\Users\DuskArgentum\Desktop\C# Things\chapter01\chapter1\Tree\bin\Debug\Tree.exe
+C:\Users\DuskArgentum\Desktop\C# Things\chapter01\chapter1\Tree\bin\Debug\Tree.pdb
+C:\Users\DuskArgentum\Desktop\C# Things\chapter01\chapter1\Tree\obj\x86\Debug\Tree.csprojResolveAssemblyReference.cache
