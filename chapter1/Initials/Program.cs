@@ -10,9 +10,9 @@ namespace Initials
         static void Main(string[] args)
         {
             Console.WriteLine("BBBB    EEEEE");
-            Console.WriteLine("B   B   E");
-            Console.WriteLine("BBBB    EEE");
-            Console.WriteLine("B   B   E");
+            Console.WriteLine("B   B   E    ");
+            Console.WriteLine("BBBB    EEE  ");
+            Console.WriteLine("B   B   E    ");
             Console.WriteLine("BBBB    EEEEE");
         }
     }
