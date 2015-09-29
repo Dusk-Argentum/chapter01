@@ -4,3 +4,6 @@ C:\Users\DuskArgentum\Desktop\C# Things\chapter01\chapter1\BurmaShave\bin\Debug\
 C:\Users\DuskArgentum\Desktop\C# Things\chapter01\chapter1\BurmaShave\obj\Debug\BurmaShave.csprojResolveAssemblyReference.cache
 C:\Users\DuskArgentum\Desktop\C# Things\chapter01\chapter1\BurmaShave\obj\Debug\BurmaShave.exe
 C:\Users\DuskArgentum\Desktop\C# Things\chapter01\chapter1\BurmaShave\obj\Debug\BurmaShave.pdb
+C:\Users\eahscs\Desktop\chapter01\chapter1\BurmaShave\bin\Debug\BurmaShave.exe.config
+C:\Users\eahscs\Desktop\chapter01\chapter1\BurmaShave\obj\Debug\BurmaShave.exe
+C:\Users\eahscs\Desktop\chapter01\chapter1\BurmaShave\obj\Debug\BurmaShave.pdb

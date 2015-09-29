@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chapter1", "chapter1\chapter1.csproj", "{D6DB8857-B96B-4B3E-AD8D-945C30F7058E}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Initials", "Initials\Initials.csproj", "{8C6A8385-A28B-4956-B150-FA91B45BC958}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BurmaShave", "BurmaShave\BurmaShave.csproj", "{3493D18A-D4EF-4F9D-98FC-C8B342643229}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quotation", "Quotation\Quotation.csproj", "{7015972E-76D3-4361-B123-5799BF2D0A22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -85,6 +87,18 @@ Global
 		{3493D18A-D4EF-4F9D-98FC-C8B342643229}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{3493D18A-D4EF-4F9D-98FC-C8B342643229}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{3493D18A-D4EF-4F9D-98FC-C8B342643229}.Release|x86.ActiveCfg = Release|Any CPU
+		{7015972E-76D3-4361-B123-5799BF2D0A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7015972E-76D3-4361-B123-5799BF2D0A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7015972E-76D3-4361-B123-5799BF2D0A22}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{7015972E-76D3-4361-B123-5799BF2D0A22}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{7015972E-76D3-4361-B123-5799BF2D0A22}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7015972E-76D3-4361-B123-5799BF2D0A22}.Debug|x86.Build.0 = Debug|Any CPU
+		{7015972E-76D3-4361-B123-5799BF2D0A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7015972E-76D3-4361-B123-5799BF2D0A22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7015972E-76D3-4361-B123-5799BF2D0A22}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{7015972E-76D3-4361-B123-5799BF2D0A22}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{7015972E-76D3-4361-B123-5799BF2D0A22}.Release|x86.ActiveCfg = Release|Any CPU
+		{7015972E-76D3-4361-B123-5799BF2D0A22}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
